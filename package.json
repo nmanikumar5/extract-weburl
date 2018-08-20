@@ -1,0 +1,23 @@
+{
+  "name": "link-extractor",
+  "version": "1.0.0",
+  "description": "Basic Node Module to Extract links from the text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmanikumar5/link-extractor.git"
+  },
+  "keywords": [
+    "extract",
+    "links"
+  ],
+  "author": "Manikumar <nmanikumar5@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nmanikumar5/link-extractor/issues"
+  },
+  "homepage": "https://github.com/nmanikumar5/link-extractor#readme"
+}
