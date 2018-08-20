@@ -1,6 +1,6 @@
 {
-  "name": "link-extractor",
-  "version": "1.0.0",
+  "name": "extract-weburl",
+  "version": "1.0.1",
   "description": "Basic Node Module to Extract links from the text",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nmanikumar5/link-extractor.git"
+    "url": "git+https://github.com/nmanikumar5/extract-weburl.git"
   },
   "keywords": [
     "extract",
@@ -17,7 +17,7 @@
   "author": "Manikumar <nmanikumar5@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nmanikumar5/link-extractor/issues"
+    "url": "https://github.com/nmanikumar5/extract-weburl/issues"
   },
-  "homepage": "https://github.com/nmanikumar5/link-extractor#readme"
+  "homepage": "https://github.com/nmanikumar5/extract-weburl#readme"
 }
